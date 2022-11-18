@@ -3,5 +3,5 @@
     "express": "^4.18.2",
     "socket.io": "^4.5.3"
   },
-  "homepage": "https://MalTechh.github.io/ChatNow",
+  "homepage": "https://MalTechh.github.io/ChatNow"
 }
