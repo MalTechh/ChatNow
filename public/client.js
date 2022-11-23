@@ -1,4 +1,4 @@
-const socket = io("ws://localhost:5000");
+const socket = io("ws://chat---now.herokuapp.com/");
 const userbox = document.getElementById("users");
 let username;
 //Allocates username and announces someone joined => Also displays all active users for new member
